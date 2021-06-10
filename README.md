@@ -2,7 +2,8 @@
 
 <b>Please Do Check My ScreenShots Folder For More Clarity</b>
 
-Inside TrakInvestAssignment Folder:
+
+<b>Inside src Folder:</b>
 
 I Have Created Four Typescript Files, One For POST/DELETE (Publisher.ts) and other For Get and Other Database Filter Commands (Subscriber.ts).
 Made Use Of Rabbitmq And Postgre Frameworks.
