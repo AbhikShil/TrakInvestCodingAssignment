@@ -1,6 +1,6 @@
 # TrakInvestCodingAssignment
 
-<b>Please Do Check My ScreenShots Folder For More Clarity</b>
+<b>Please Do Check My ScreenShots Folder For Working Examples</b>
 
 
 <b>Inside src Folder:</b>
